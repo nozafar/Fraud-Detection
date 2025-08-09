@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange)](https://scikit-learn.org/stable/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 A credit card fraud detection system using the **Isolation Forest** algorithm to detect anomalies in transactions.  
@@ -106,8 +105,4 @@ python fraud_detection.py
 
 ✨ *Stop fraud before it stops you!*
 
-```
-
-
-If you want, I can now **add a “Results” section with a table and an image** so it looks even more professional. That will make it look like a Kaggle/GitHub portfolio project.
 ```
