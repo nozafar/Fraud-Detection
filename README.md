@@ -23,3 +23,9 @@ The algorithm isolates anomalies by randomly selecting features and split values
 ---
 
 ## 📂 Project Structure
+Fraud-Detection/
+│
+├── app.py # Optional web app script
+├── fraud_detection.py # Main model training & evaluation script
+├── creditcard.csv # Dataset (add manually)
+└── README.md # Documentation
